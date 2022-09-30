@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a high school student working towards a career in software engineering.
+<p align="center">I'm a high school student working towards a career in software engineering.</p>
 
-- 📟 Current Project: XanaduOS, a simple OS for OpenComputers
+<hr>
+
+- 📟 Current Main Project: XanaduOS, a simple OS for OpenComputers
 - 💾 Most Used Languages: Lua, C
 - 🖋 Projects: [CCVim](https://github.com/Minater247/CCVim), [todo](https://github.com/Minater247/todo)
 - 🧩 Currently Learning: Sega Genesis development with SGDK
+- ⚡️ Fun Fact: I love aviation, and plan to work on avionics!
