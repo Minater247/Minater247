@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
 <!--
 **Minater247/Minater247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">I'm a high school student working towards a career in software engineering.</p>
+
+<hr>
+
+- 📟 Current Main Project: XanaduOS, a simple OS for OpenComputers
+- 💾 Most Used Languages: Lua, C
+- 🖋 Projects: [CCVim](https://github.com/Minater247/CCVim), [todo](https://github.com/Minater247/todo)
+- 🧩 Currently Learning: Sega Genesis development with SGDK
+- ⚡️ Fun Fact: I love aviation, and plan to work on avionics!
