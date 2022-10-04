@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-- 📟 Current Main Project: XanaduOS, a simple OS for OpenComputers
+- 📟 Current Main Project: Complete rewrite of CCVim, with a structure optimized for multiple tabs and improved syntax highlighting
 - 💾 Most Used Languages: Lua, C
 - 🖋 Projects: [CCVim](https://github.com/Minater247/CCVim), [todo](https://github.com/Minater247/todo)
 - 🧩 Currently Learning: Sega Genesis development with SGDK
