@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">I'm a high school student working towards a career in software engineering.</p>
-
-<p align-"center">I'm a university student working towards a career in software engineering.</p>
+<p align="center">I'm a university student working towards a career in software engineering.</p>
 
 <hr>
 
